@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Game title localization and configuration directory",
+    "supported_languages": ["zh", "en", "jp", "kr"]
+  },
+  "games": {
+    "wuthering_waves": {
+      "locales": {
+        "zh": "鸣潮",
+        "en": "Wuthering Waves",
+        "jp": "鳴潮",
+        "kr": "명조: 워더링 웨이브"
+      }
+    },
+    "honkai_star_rail": {
+      "locales": {
+        "zh": "崩坏：星穹铁道",
+        "en": "Honkai: Star Rail",
+        "jp": "崩壊：スターレイル",
+        "kr": "붕괴: 스타레일"
+      }
+    },
+    "genshin_impact": {
+      "locales": {
+        "zh": "原神",
+        "en": "Genshin Impact",
+        "jp": "原神",
+        "kr": "원신"
+      }
+    },
+    "zenless_zone_zero": {
+      "locales": {
+        "zh": "绝区零",
+        "en": "Zenless Zone Zero",
+        "jp": "ゼンレスゾーンゼロ",
+        "kr": "젠레스 존 제로"
+      }
+    },
+    "arknights_endfield": {
+      "locales": {
+        "zh": "明日方舟：终末地",
+        "en": "Arknights: Endfield",
+        "jp": "アークナイツ：エンドフィールド",
+        "kr": "명일방주: 엔드필드"
+      }
+    },
+    "punishing_gray_raven": {
+      "locales": {
+        "zh": "战双帕弥什",
+        "en": "Punishing: Gray Raven",
+        "jp": "パニシング：グレイレイヴン",
+        "kr": "퍼니싱: 그레이 레이븐"
+      }
+    },
+    "neverness_to_everness": {
+      "locales": {
+        "zh": "异环",
+        "en": "Neverness to Everness",
+        "jp": "Neverness to Everness",
+        "kr": "네버니스 투 에버니스"
+      }
+    },
+    "tower_of_fantasy": {
+      "locales": {
+        "zh": "幻塔",
+        "en": "Tower of Fantasy",
+        "jp": "幻塔",
+        "kr": "타워 오브 판타지"
+      }
+    },
+    "honkai_impact_3rd": {
+      "locales": {
+        "zh": "崩坏3",
+        "en": "Honkai Impact 3rd",
+        "jp": "崩壊3rd",
+        "kr": "붕괴3rd"
+      }
+    },
+    "love_and_deepspace": {
+      "locales": {
+        "zh": "恋与深空",
+        "en": "Love and Deepspace",
+        "jp": "恋と深空",
+        "kr": "러브앤딥스페이스"
+      }
+    },
+    "path_to_nowhere": {
+      "locales": {
+        "zh": "无期迷途",
+        "en": "Path to Nowhere",
+        "jp": "無期迷途",
+        "kr": "무기미도"
+      }
+    },
+    "epic_seven": {
+      "locales": {
+        "zh": "第七史诗",
+        "en": "Epic Seven",
+        "jp": "エピックセブン",
+        "kr": "에픽세븐"
+      }
+    }
+  }
+}
